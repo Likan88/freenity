@@ -41,7 +41,7 @@
     "iframe-resizer": "^3.6.3",
     "jquery": "^3.3.1",
     "jsonwebtoken": "^8.3.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mdi": "^2.2.43",
     "mercury-client": "^2.0.2",
     "mime-types": "^2.1.21",
