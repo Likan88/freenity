@@ -13,7 +13,7 @@
   "dependencies": {
     "@postlight/mercury-parser": "^2.1.0",
     "@websanova/vue-auth": "^2.21.14-beta",
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "autoprefixer": "^9.3.1",
     "autoprefixer-loader": "^3.2.0",
     "axios": "^0.17.1",
