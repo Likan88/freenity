@@ -45,7 +45,7 @@
     "mdi": "^2.2.43",
     "mercury-client": "^2.0.2",
     "mime-types": "^2.1.21",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "mongoose": "^4.13.17",
     "node-sass": "^4.10.0",
     "nodemon": "^1.18.6",
