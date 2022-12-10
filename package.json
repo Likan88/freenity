@@ -29,7 +29,7 @@
     "dotenv": "^4.0.0",
     "easyimage": "^3.1.0",
     "embed-video": "^2.0.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-bearer-token": "^2.2.0",
     "express-fileupload": "^1.0.0",
     "express-jwt": "^5.3.1",
